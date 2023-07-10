@@ -1,0 +1,16 @@
+{
+    "all":[
+        {
+            "id":1,
+            "nameList":["Rick","Martin","James"]
+        },
+        {
+            "id":2,
+            "nameList":["Ram","Molly","Jack"]
+        },
+        {
+            "id":3,
+            "nameList":["Lolly","Sam","Jill"]
+        } 
+    ]  
+}
